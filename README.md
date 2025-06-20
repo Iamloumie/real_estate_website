@@ -154,7 +154,7 @@ Your Name - [@iamloumie](https://x.com/iamloumie?s=21&t=TV1CWqx5f-bQdR0wq3fXLw) 
 
 Project Link: [https://github.com/Iamloumie/real_estate_website](https://github.com/Iamloumie/real_estate_website)
 
-Live Demo: [https://real_estate_website.vercel.app](https://real_estate_website.vercel.app)
+Live Demo: [https://loumiehomes.vercel.app](https://loumiehomes.vercel.app)
 
 ---
 
